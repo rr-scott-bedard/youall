@@ -12,7 +12,7 @@ var terms = [
     { term: "slave", suggestion: "replica" },
     { term: "whitelist", suggestion: "allowlist" },
     { term: "blacklist", suggestion: "denylist" },
-    { term: "white list", suggestion: "denylist" },
+    { term: "white list", suggestion: "allowlist" },
     { term: "black list", suggestion: "denylist" },
     { term: "man hours", suggestion: "person hours" },
     { term: "sanity check", suggestion: "quick check" },
@@ -21,8 +21,7 @@ var terms = [
     { term: "spokesman", suggestion: "spokesperson" },
     { term: "spokeswoman", suggestion: "spokesperson" },
     { term: "foreman", suggestion: "supervisor" },
-    { term: "crazy", suggestion: "prone to bending reality" },
-    { term: "claire", suggestion: "prone to bending reality" }
+    { term: "crazy", suggestion: "prone to bending reality" }
 ]
 
 var eggs = [
